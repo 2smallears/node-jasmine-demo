@@ -29,4 +29,4 @@
 
 >运行测试代码
 >npm test
->或 jasmine spec/mainmain-spec.js
+>或 jasmine spec/main-spec.js
